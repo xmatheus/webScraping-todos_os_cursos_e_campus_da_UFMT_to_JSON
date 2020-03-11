@@ -8,4 +8,5 @@
 
 ## Executar
 > yarn install
+
 > node index.js
